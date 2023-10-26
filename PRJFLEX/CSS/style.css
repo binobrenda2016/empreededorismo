@@ -1,0 +1,78 @@
+.top-bar{
+    background-color: rgb(224, 203, 198);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header{
+    background-color: rgb(231, 216, 205);
+    margin: 0;
+    padding: 0;
+}
+ .top-bar--brand-logo{
+    width: 150px;
+    height: 150px;
+
+ }
+
+ .top-bar--login{
+     background-color: rgb(204, 24, 24);
+     display: flex;
+     align-items: center;
+     padding: 0 20px;
+
+
+    
+ }
+ .top-bar--login-logo{
+     width: 10vw;
+     height: auto;
+ }
+main{
+    background-color: rgb(204, 43, 21);
+    width:60%;
+    margin: auto;
+    display: flex;
+    padding: 40px;
+    color: mediumblue;
+justify-content: space-between; }
+
+footer{
+    background-color: chocolate;
+}
+
+
+section{
+    border: 1px; 
+    width: 30%;
+    padding: 20px;
+}
+
+.top-bar--brand{
+
+}
+
+
+
+.top-bar--login{
+    background-color: rgb(225, 231, 241);
+    display: flex;
+    align-items: center;
+
+}
+
+
+.top-bar--login-logo{
+
+}
+
+a{
+    color: rgb(204, 24, 24);
+}
+a:hover{
+    color:yellow;
+}
+a:visited{
+    color:blueviolet
+}
